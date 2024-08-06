@@ -1,6 +1,8 @@
 # Awesome Large Language Model (LLM) Merging
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=ysjprojects.Awesome-LLM-Merging&left_text=Visitors) ![GitHub stars](https://img.shields.io/github/stars/ysjprojects/Awesome-LLM-Merging?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/ysjprojects/Awesome-LLM-Merging?color=9cf) [![GitHub license](https://img.shields.io/github/license/ysjprojects/Awesome-LLM-Merging)](https://github.com/ysjprojects/Awesome-LLM-Merging/blob/main/LICENSE)
 
+[Merge-chan says hi!](assets/merge-chan.png)
+
 This is a collection of research papers for **Large Language Model (LLM) Merging**.
 And the repository will be continuously updated to track the frontier of LLM Merging.
 
@@ -49,37 +51,37 @@ format:
 - [Model Stock: All we need is just a few fine-tuned models](https://arxiv.org/pdf/2403.19522)
   - Dong-Hwan Jang, Sangdoo Yun, Dongyoon Han
   - Keyword: Layer-wise Weight Averaging
-  - Code: [official](https://github.com/naver-ai/model-stock)
+  - Code: [Official](https://github.com/naver-ai/model-stock)
 
 - [Evolutionary Optimization of Model Merging Recipes](https://arxiv.org/pdf/2403.13187v1)
   - Takuya Akiba, Makoto Shing, Yujin Tang, Qi Sun, David Ha
   - Keyword: Evolutionary Algorithms, Cross-Domain Merging, Automated Model Composition
-  - Code: [official](https://github.com/sakanaai/evolutionary-model-merge)
+  - Code: [Official](https://github.com/sakanaai/evolutionary-model-merge)
 
 - [Training-Free Pretrained Model Merging](https://arxiv.org/pdf/2403.01753v3)
   - Zhengqi Xu, Ke Yuan, Huiqiong Wang, Yong Wang, Mingli Song, Jie Song
   - Keyword: Training-free Model Merging
-  - Code: [official](https://github.com/zju-vipa/training_free_model_merging)
+  - Code: [Official](https://github.com/zju-vipa/training_free_model_merging)
 
 - [DELLA-Merging: Reducing Interference in Model Merging through Magnitude-Based Sampling](https://arxiv.org/pdf/2406.11617v1)
   - Pala Tej Deep, Rishabh Bhardwaj, Soujanya Poria
   - Keyword: MAGPRUNE, Pruning Technique, TIES, DARE
-  - Code: [official](https://github.com/declare-lab/della)
+  - Code: [Official](https://github.com/declare-lab/della)
   
 - [Merging Multi-Task Models via Weight-Ensembling Mixture of Experts](https://arxiv.org/pdf/2402.00433v2)
   - Anke Tang, Li Shen, Yong Luo, Nan Yin, Lefei Zhang, Dacheng Tao
   - Keyword: Multi-Task Learning, Task Arithmetic, Vision Transformers, Weight Ensembling, Mixture Of Experts
-  - Code: [official](https://github.com/tanganke/weight-ensembling_moe)
+  - Code: [Official](https://github.com/tanganke/weight-ensembling_moe)
  
 - [Twin-Merging: Dynamic Integration of Modular Expertise in Model Merging](https://arxiv.org/abs/2406.15479v1)
   - Zhenyi Lu, Chenghao Fan, Wei Wei, Xiaoye Qu, Dangyang Chen, Yu Cheng
   - Keyword: Knowledge Modularization, Dynamic Merging
-  - Code: [official](https://github.com/LZY-the-boys/Twin-Merging)
+  - Code: [Official](https://github.com/LZY-the-boys/Twin-Merging)
 
 - [Domain Adaptation of Llama3-70B-Instruct through Continual Pre-Training and Model Merging: A Comprehensive Evaluation](https://arxiv.org/pdf/2406.14971)
   - Shamane Siriwardhana, Mark McQuade, Thomas Gauthier, Lucas Atkins, Fernando Fernandes Neto, Luke Meyers, Anneketh Vij, Tyler Odenthal, Charles Goddard, Mary MacCarthy, Jacob Solawetz
   - Keyword: Domain Adaptation
-  - Code: [official](https://github.com/LZY-the-boys/Twin-Merging)
+  - Code: [Official](https://github.com/LZY-the-boys/Twin-Merging)
 
 ### 2023
 - [LM-Cocktail: Resilient Tuning of Language Models via Model Merging](https://arxiv.org/pdf/2311.13534v4)
@@ -132,27 +134,27 @@ format:
 - [Dataless Knowledge Fusion by Merging Weights of Language Models](https://arxiv.org/pdf/2212.09849v5)
   - Xisen Jin, Xiang Ren, Daniel Preotiuc-Pietro, Pengxiang Cheng
   - Keyword: Knowledge Fusion, Regression Mean (RegMean) 
-  - Code: [official](https://github.com/bloomberg/dataless-model-merging)
+  - Code: [Official](https://github.com/bloomberg/dataless-model-merging)
 
 - [Editing Models with Task Arithmetic](https://arxiv.org/pdf/2212.04089v3)
   - Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi
   - Keyword: Task Arithmetic
-  - Code: [official](https://github.com/mlfoundations/task_vectors)
+  - Code: [Official](https://github.com/mlfoundations/task_vectors)
 
 - [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/pdf/2203.05482v3)
   - Mitchell Wortsman, Gabriel Ilharco, Samir Yitzhak Gadre, Rebecca Roelofs, Raphael Gontijo-Lopes, Ari S. Morcos, Hongseok Namkoong, Ali Farhadi, Yair Carmon, Simon Kornblith, Ludwig Schmidt
   - Keyword: Domain Generalization, Unsupervised Domain Adaptation, Image Classification
-  - Code: [official](https://github.com/mlfoundations/model-soups)
+  - Code: [Official](https://github.com/mlfoundations/model-soups)
 
 - [Merging Models with Fisher-Weighted Averaging](https://arxiv.org/pdf/2111.09832)
   - Michael Matena, Colin Raffel
   - Keyword: Model Merging, Fisher-Weighted Averaging
-  - Code: [official](https://github.com/mmatena/model_merging)
+  - Code: [Official](https://github.com/mmatena/model_merging)
 
 - [MergeDistill: Merging Pre-trained Language Models using Distillation](https://arxiv.org/pdf/2106.02834)
   - Simran Khanuja, Melvin Johnson, Partha Talukdar
   - Keyword: Cross-lingual Transfer, Task-agnostic Knowledge Distillation
-  - Code: [official](https://github.com/mmatena/model_merging)
+  - Code: [Official](https://github.com/mmatena/model_merging)
 
 ## Codebases
 ```
