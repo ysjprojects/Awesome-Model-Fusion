@@ -1,7 +1,7 @@
 # Awesome Large Language Model (LLM) Merging
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=ysjprojects.Awesome-LLM-Merging&left_text=Visitors) ![GitHub stars](https://img.shields.io/github/stars/ysjprojects/Awesome-LLM-Merging?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/ysjprojects/Awesome-LLM-Merging?color=9cf) [![GitHub license](https://img.shields.io/github/license/ysjprojects/Awesome-LLM-Merging)](https://github.com/ysjprojects/Awesome-LLM-Merging/blob/main/LICENSE)
 
-[Merge-chan says hi!](assets/merge-chan.png)
+![Merge-chan says hi!](assets/merge-chan.png)
 
 This is a collection of research papers for **Large Language Model (LLM) Merging**.
 And the repository will be continuously updated to track the frontier of LLM Merging.
