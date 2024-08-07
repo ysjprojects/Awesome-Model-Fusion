@@ -21,6 +21,7 @@ Welcome to follow and star!
   - [Blogs](#blogs)
   - [Contributing](#contributing)
   - [License](#license)
+  - [Acknowledgement](#acknowledgement)
 
 ## Papers
 
@@ -195,3 +196,7 @@ Our purpose is to make this repo even better. If you are interested in contribut
 ## License
 
 Awesome LLM Merging is released under the Apache 2.0 license.
+
+## Acknowledgement
+
+Special thanks to [awesome-RLHF](https://github.com/opendilab/awesome-RLHF) for providing inspiration for this template.
