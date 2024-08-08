@@ -95,6 +95,11 @@ format:
   - Keyword: DARE
   - Code: [Official](https://github.com/yule-buaa/mergelm)
 
+- [In-Context Learning Creates Task Vectors](https://arxiv.org/pdf/2310.15916)
+  - Roee Hendel, Mor Geva, Amir Globerson
+  - Keyword: In-Context Learning
+  - Code: [Official](https://github.com/roeehendel/icl_task_vectors)
+
 - [TIES-Merging: Resolving Interference When Merging Models](https://arxiv.org/pdf/2306.01708v2)
   - Prateek Yadav, Derek Tam, Leshem Choshen, Colin Raffel, Mohit Bansal
   - Keyword: Transfer Learning, TIES, Parameter Interference
