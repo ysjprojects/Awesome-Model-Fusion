@@ -1,17 +1,17 @@
-# Awesome Large Language Model (LLM) Merging
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=ysjprojects.Awesome-LLM-Merging&left_text=Visitors) ![GitHub stars](https://img.shields.io/github/stars/ysjprojects/Awesome-LLM-Merging?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/ysjprojects/Awesome-LLM-Merging?color=9cf) [![GitHub license](https://img.shields.io/github/license/ysjprojects/Awesome-LLM-Merging)](https://github.com/ysjprojects/Awesome-LLM-Merging/blob/main/LICENSE)
+# Awesome Model Fusion
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=ysjprojects.Awesome-Model-Fusion&left_text=Visitors) ![GitHub stars](https://img.shields.io/github/stars/ysjprojects/Awesome-Model-Fusion?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/ysjprojects/Awesome-Model-Fusion?color=9cf) [![GitHub license](https://img.shields.io/github/license/ysjprojects/Awesome-Model-Fusion)](https://github.com/ysjprojects/Awesome-Model-Fusion/blob/main/LICENSE)
 
 ![Merge-chan says hi!](assets/merge-chan.png)
 
-This is a collection of research papers for **Large Language Model (LLM) Merging**.
-And the repository will be continuously updated to track the frontier of LLM Merging.
+This is a collection of research papers for **Model Fusion** with a focus on Large Language Models (LLMs)
+And the repository will be continuously updated to track the frontier of Model Fusion
 
 Welcome to follow and star!
 
 
 ## Table of Contents
 
-- [Awesome Large Language Model (LLM) Merging](#awesome-large-language-model-llm-merging)
+- [Awesome Model Fusion](#awesome-model-fusion)
   - [Table of Contents](#table-of-contents)
   - [Papers](#papers)
     - [2024](#2024)
@@ -204,7 +204,7 @@ Our purpose is to make this repo even better. If you are interested in contribut
 
 ## License
 
-Awesome LLM Merging is released under the Apache 2.0 license.
+Awesome Model Fusion is released under the Apache 2.0 license.
 
 ## Acknowledgement
 
