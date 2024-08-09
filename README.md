@@ -161,6 +161,10 @@ format:
   - Simran Khanuja, Melvin Johnson, Partha Talukdar
   - Keyword: Cross-lingual Transfer, Task-agnostic Knowledge Distillation
   - Code: [Official](https://github.com/mmatena/model_merging)
+ 
+- [Model Fusion via Optimal Transport](https://arxiv.org/pdf/1910.05653)
+  - Sidak Pal Singh, Martin Jaggi
+  - Keyword: Optimal Transport, "One-shot" Knowledge Transfer
 
 ## Codebases
 ```
