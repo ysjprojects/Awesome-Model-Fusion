@@ -1,6 +1,5 @@
-# Contributing to Awesome LLM Merging
-
-Anyone interested in LLM Merging is welcomed to contribute to this repo:
+# Contributing to Awesome Model Fusion
+Anyone interested in Model Fusion is welcomed to contribute to this repo:
 
 - You can add the classical or latest publications / tutorials directly to `README.md` and `your_create.md`.
 
@@ -15,7 +14,7 @@ In general, we follow the "fork-and-pull" Git workflow.
 
 2. Clone this repo to your own machine.
     ```
-    git clone https://github.com/<your_username>/Awesome-LLM-Merging.git
+    git clone https://github.com/<your_username>/Awesome-Model-Fusion.git
     ```
 
 3. Make necessary changes and commit those changes.
